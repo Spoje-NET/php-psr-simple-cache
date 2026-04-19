@@ -1,0 +1,5 @@
+phpcomposer:name=psr/simple-cache
+phpcomposer:description=Common interfaces for simple caching
+phpcomposer:Debian-require=php-common, php-common
+misc:Depends=
+misc:Pre-Depends=

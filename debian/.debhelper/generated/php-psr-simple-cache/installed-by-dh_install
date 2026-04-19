@@ -1,0 +1,4 @@
+./src/CacheException.php
+./src/CacheInterface.php
+./src/InvalidArgumentException.php
+./debian/autoload.php

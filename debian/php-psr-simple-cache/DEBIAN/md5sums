@@ -1,0 +1,6 @@
+8038555fcb1aeca36e2942f89175c32e  usr/share/doc/php-psr-simple-cache/changelog.Debian.gz
+7cf41f7f33dd3409d9a7164ba0f520e0  usr/share/doc/php-psr-simple-cache/copyright
+ed9af8bdafbc23cbd97681bec29385f0  usr/share/php/Psr/SimpleCache/CacheException.php
+0f79bb7341b4df04d00ae60c2441e07a  usr/share/php/Psr/SimpleCache/CacheInterface.php
+f070de2116d9d1ca836e68a404414d10  usr/share/php/Psr/SimpleCache/InvalidArgumentException.php
+d33ef4f065487f3976db73d95d9e06a2  usr/share/php/Psr/SimpleCache/autoload.php

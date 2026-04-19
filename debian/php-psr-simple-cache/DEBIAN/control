@@ -1,0 +1,12 @@
+Package: php-psr-simple-cache
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Vítězslav Dvořák <vitezslav.dvorak@spojenet.cz>
+Installed-Size: 20
+Section: php
+Priority: optional
+Homepage: https://github.com/php-fig/simple-cache
+Description: Common interfaces for simple caching
+ PSR-16 defines a simple yet extensible interface for a cache item and a cache
+ driver. It does not attempt a full solution for caching, but merely a common
+ interface for the most basic caching operations.
